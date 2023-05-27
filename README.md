@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6lypcspf5gsi8tbk?svg=true)](https://ci.appveyor.com/project/MakovkaQA/pattern2)
